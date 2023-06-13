@@ -4,8 +4,9 @@ I'm currently working on Data Engineering.<br>I also like Cybersecurity and lear
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rosemarries&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rosemarries&theme=nightowl&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosemarries&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rosemarries&theme=nightowl&hide_border=true)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
